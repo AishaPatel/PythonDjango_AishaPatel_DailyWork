@@ -13,4 +13,5 @@ BASE Page
 ![basePage-day8](https://user-images.githubusercontent.com/76744703/121001974-74ecab80-c7a9-11eb-8048-c2aa25fe812a.png)
 
 OUTPUT - DAY9
-![Uploading output-day9.png…]()
+![output-day9](https://user-images.githubusercontent.com/76744703/121185150-6377d200-c883-11eb-8440-f7049b471814.png)
+
