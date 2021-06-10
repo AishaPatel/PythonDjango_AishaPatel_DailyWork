@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<html>
+<head>  
+    <title> REGISTRATION </title>
+<body>
+    <h1 align = 'center'>  DETAILS </h1>
+    <form method = "post" >
+    {% csrf_token %}
+    <table border="0" cellpadding="5" cellspacing="0" width="600">
+
+    <tr> 
+    <td> First Name : </td>
+    <td> <input type = 'text' name = 'fname' required /> </td>
+    </tr>
+
+    <tr>
+    <td> Last  Name : </td>
+    <td> <input type = 'text' name = 'lname' required /> </td>
+    </tr>
+
+    <tr>
+    <td> Gender : </td>
+    <td> <input type = 'radio' name = 'gender' value = 'male' > Male 
+         <input type = 'radio' name = 'gender' value = 'female' > Female </td>
+    </tr>
+
+    <tr>
+    <td> Email id : </td>
+    <td> <input type = 'email' name = 'email_id' required /> </td>
+    </tr>
+
+    <tr>
+    <td> <input type='submit' value= 'Register' > </td>
+    </tr>
+    
+    
+    </table>
+    </form>
+    
+</body>
+</head>
+</html>
+{% endblock %}
