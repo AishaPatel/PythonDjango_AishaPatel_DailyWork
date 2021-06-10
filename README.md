@@ -15,3 +15,14 @@ BASE Page
 OUTPUT - DAY9
 ![output-day9](https://user-images.githubusercontent.com/76744703/121185150-6377d200-c883-11eb-8440-f7049b471814.png)
 
+SignUP PAGE Day9_HW
+![signupPage-day9hw](https://user-images.githubusercontent.com/76744703/121474618-f169cf00-c9e1-11eb-9d72-e139ab1e7340.png)
+
+SignUP Page OUTPUT 
+![Signup_OUTPUT](https://user-images.githubusercontent.com/76744703/121474691-0ba3ad00-c9e2-11eb-9a63-f2dd5bdf86d0.png)
+
+Details Page Day9_HW
+![detailsPage-day9hw](https://user-images.githubusercontent.com/76744703/121474733-1e1de680-c9e2-11eb-8dce-5cd55404a65c.png)
+
+Details Page OUTPUT
+![details_OUTPUT](https://user-images.githubusercontent.com/76744703/121474781-3130b680-c9e2-11eb-9089-eedc00153f3d.png)
