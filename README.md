@@ -26,3 +26,7 @@ Details Page Day9_HW
 
 Details Page OUTPUT
 ![details_OUTPUT](https://user-images.githubusercontent.com/76744703/121474781-3130b680-c9e2-11eb-9089-eedc00153f3d.png)
+
+Registration OUTPUT
+![registration_OUTPUT](https://user-images.githubusercontent.com/76744703/121478946-2cbacc80-c9e7-11eb-834b-1f25a54ffd5a.png)
+
