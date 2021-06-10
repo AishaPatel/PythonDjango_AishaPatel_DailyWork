@@ -30,3 +30,10 @@ Details Page OUTPUT
 Registration OUTPUT
 ![registration_OUTPUT](https://user-images.githubusercontent.com/76744703/121478946-2cbacc80-c9e7-11eb-834b-1f25a54ffd5a.png)
 
+Admin Page Day10
+![adminPage-day10](https://user-images.githubusercontent.com/76744703/121579063-fada5200-ca48-11eb-8309-3e4f8fe4d24b.png)
+
+slist Page
+![slist_Output](https://user-images.githubusercontent.com/76744703/121579137-0f1e4f00-ca49-11eb-8ca8-84c86e7f8b56.png)
+
+
