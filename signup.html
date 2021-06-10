@@ -1,0 +1,76 @@
+<html>
+<head>  
+    <title> SIGN UP! </title>
+<body>
+    <h1 align = 'center'>  DETAILS </h1>
+    <form method = "post" action ='/signup_page'>
+    {% csrf_token %}
+    <table border="0" cellpadding="5" cellspacing="0" width="600">
+
+    <tr> 
+    <td> First Name : </td>
+    <td> <input type = 'text' name = 'fname' required /> </td>
+    </tr>
+
+    <tr>
+    <td> Last  Name : </td>
+    <td> <input type = 'text' name = 'lname' required /> </td>
+    </tr>
+
+    <tr>
+    <td> Gender : </td>
+    <td> <input type = 'radio' name = 'gender' value = 'male' > Male 
+         <input type = 'radio' name = 'gender' value = 'female' > Female </td>
+    </tr>
+
+    <tr>
+    <td> Birth Date : </td>
+    <td> <input type = 'date' name = 'date' required /> </td>
+    </tr>
+
+    <tr>
+    <td> Email id : </td>
+    <td> <input type = 'email' name = 'email_id' required /> </td>
+    </tr>
+
+    <tr>
+    <td> Phone  : </td>
+    <td> <input type = 'text' name = 'phone_number' maxlength= "14" required /> </td>
+    </tr>
+    
+    <tr>
+    <td> Address : </td>
+    <td> <textarea name = 'address' rows ="10" clos='20'  placeholder = 'enter address'> </textarea> </td>
+    </tr>
+
+    <tr>
+    <td> City  : </td>
+    <td> <input type = 'text' name = 'city' maxlength= "120" required /> </td>
+    </tr>
+
+    <tr>
+    <td> State/Province: </td>
+    <td> <input type = 'text' name = 'state' maxlength= "120" required /> </td>
+    </tr>
+
+    <tr>
+    <td> Zip Code: </td>
+    <td> <input type = 'text' name = 'zip' maxlength= "30" required /> </td>
+    </tr>
+
+    <tr>
+    <td> Country: </td>
+    <td> <input type = 'text' name = 'country' maxlength= "120" required /> </td>
+    </tr>
+ 
+    <tr>
+    <td> <input type='submit'> </td>
+    </tr>
+    
+    
+    </table>
+    </form>
+    
+</body>
+</head>
+</html>
